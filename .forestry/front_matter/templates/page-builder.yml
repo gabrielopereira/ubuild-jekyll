@@ -33,5 +33,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- blog.md
 - _posts/2018-10-18-morm-xxxyyy.md
 - index.md
